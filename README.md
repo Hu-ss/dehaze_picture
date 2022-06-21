@@ -1,2 +1,2 @@
 # dehaze_picture
-A fast dehazing method for dark channel images based on recursive filtering
+A fast dehazing method for images based on recursive filtering
