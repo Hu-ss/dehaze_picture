@@ -1,5 +1,4 @@
-# dehaze_picture
-A fast dehazing method for images based on recursive filtering
+# A fast dehazing method for images based on recursive filtering
 一种基于递归滤波的暗通道图像快速去雾方法。
 该方法主要包括四个步骤：
 1. 根据暗通道图像对大气光强进行快速估计
