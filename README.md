@@ -6,8 +6,7 @@
 3. 根据大气散射模型复原出去雾后的图像;
 4. 利用伽马矫正的方法对去雾图像进行图像后处理。
 
-<figure class="third">
-    <img src="https://img-blog.csdn.net/2018061215200776?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152032532?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152100203?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/>
-</figure>
-
-![1](https://user-images.githubusercontent.com/80933553/178745665-a351303e-7948-41e0-957d-df54fd4914fd.jpg)
+# 有雾图像
+![有雾](https://user-images.githubusercontent.com/80933553/178752729-8282378f-ae8e-4d5d-9492-e16e757cce92.jpg)
+# 去雾图像
+![去雾](https://user-images.githubusercontent.com/80933553/178752737-f9791afc-095b-4e43-8ad5-84363e86688d.jpg)
